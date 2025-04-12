@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://satnamengineeringworks.netlify.app/sitemap.xml
